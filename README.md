@@ -2,6 +2,17 @@
 
 This repository contains an end-to-end Power BI project designed for analyzing and visualizing product inventory data. The primary objective is to build a comprehensive dashboard that compares key inventory metrics—such as product availability and demand—between the **Production (Prod)** and **Test** environments.
 
+## 📊 Report Dashboard Screenshots
+
+Below are screenshots from the final Power BI report.
+
+### Page 1
+![Page 1](page1.png)
+
+### Page 2
+![Page 2](page2.png)
+
+
 ## Project Objective
 
 The main goal of this dashboard is to provide stakeholders with a clear, at-a-glance view of the inventory status. By comparing production data against test data, the business can:
@@ -55,13 +66,4 @@ The following key metrics were calculated using DAX to drive the insights in the
     
 
 
-## 📊 Report Dashboard Screenshots
-
-Below are screenshots from the final Power BI report.
-
-### Page 1
-![Page 1](page1.png)
-
-### Page 2
-![Page 2](page2.png)
 
